@@ -90,4 +90,4 @@ jobs:
         with:
           app-name: 'eggert-loan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7DAD2BE9FDF41739F1B94206254C710 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D070D98A8C9747FF8621D37738BC739C }}
